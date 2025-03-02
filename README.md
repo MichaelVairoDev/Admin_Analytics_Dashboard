@@ -65,7 +65,7 @@ _User administration and role management interface_
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MichaelVairoDev/Admin_Analytics_Dashboard.git
 cd admin-analytics-dashboard
 ```
 
